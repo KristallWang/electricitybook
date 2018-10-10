@@ -1,5 +1,6 @@
 # 简明电学（初中人教版）
-一本简单易学的电学书
+一本简单易学的电学书  
+作者：[原同学](https://github.com/XAS-712)  
 
 ### 目录 CATALOG
 - [01 点亮电灯](pages/01-lightthelight)
