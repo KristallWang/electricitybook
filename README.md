@@ -2,6 +2,8 @@
 一本简单易学的电学书  
 作者：[原同学](https://github.com/XAS-712)  
 
+![LOGO](src/DBDA0E16-B09A-411D-B866-4593A90563F6.jpeg)
+
 ### 目录 CATALOG
 - [01 点亮电灯](pages/01-lightthelight)
 - 待更新．．．
